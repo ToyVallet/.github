@@ -11,13 +11,13 @@
     <td colspan="3">백엔드 팀</td>
   </tr>
   <tr>
-    <td><img src="" alt="프로필 이미지" width="150" /></td>
-    <td><img src="" alt="프로필 이미지" width="150" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/28076054?v=4" alt="threepebbles 프로필 이미지" width="150" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/86594565?v=4" alt="한수빈 프로필 이미지" width="150" /></td>
     <td><img src="" alt="프로필 이미지" width="150" /></td>
   </tr>
   <tr>
-    <td>이름</td>
-    <td>이름</td>
+    <td><a href="https://github.com/threepebbles">threepebbles</a></td>
+    <td><a href="https://github.com/HSBODo">한수빈</a></td>
     <td>이름</td>
   </tr>
 </table>
@@ -27,8 +27,8 @@
     <td colspan="3">프론트엔드 팀</td>
   </tr>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/84632077?v=4" alt="프로필 이미지" width="150" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/68728192?v=4" alt="프로필 이미지" width="150" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/84632077?v=4" alt="이호연 프로필 이미지" width="150" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/68728192?v=4" alt="Dongryul KIM 프로필 이미지" width="150" /></td>
     <td><img src="" alt="프로필 이미지" width="150" /></td>
   </tr>
   <tr>

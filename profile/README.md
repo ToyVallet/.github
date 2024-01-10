@@ -1,4 +1,4 @@
-<img width="380" alt="스크린샷 2024-01-10 오전 11 25 58" src="https://github.com/ToyVallet/.github/assets/82816029/92421278-c9b9-4824-9a7b-e4f0e74bbc9a">## 안녕하세요 👋
+## 안녕하세요 👋
 
 ### 🙋‍♀️ 이 Organization은 어떤 조직인가요?
 

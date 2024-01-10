@@ -1,4 +1,4 @@
-## 안녕하세요 👋
+<img width="380" alt="스크린샷 2024-01-10 오전 11 25 58" src="https://github.com/ToyVallet/.github/assets/82816029/92421278-c9b9-4824-9a7b-e4f0e74bbc9a">## 안녕하세요 👋
 
 ### 🙋‍♀️ 이 Organization은 어떤 조직인가요?
 
@@ -29,7 +29,7 @@
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/84632077?v=4" alt="이호연 프로필 이미지" width="150" /></td>
     <td><img src="https://avatars.githubusercontent.com/u/68728192?v=4" alt="Dongryul KIM 프로필 이미지" width="150" /></td>
-    <td><img src="" alt="프로필 이미지" width="150" /></td>
+    <td><img src="https://github.com/ToyVallet/.github/assets/82816029/02c4681f-3289-48a7-b4a2-02f6e48650d9" alt="김다은 프로필 이미지" width="150"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ho991217">이호연</a></td>

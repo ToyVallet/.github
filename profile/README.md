@@ -34,7 +34,7 @@
   <tr>
     <td><a href="https://github.com/ho991217">이호연</a></td>
     <td><a href="https://github.com/DoctorK4">Dongryul KIM</a></td>
-    <td>이름</td>
+    <td><a href="https://github.com/ddaeunbb">김다은</a></td>
   </tr>
 </table>
 

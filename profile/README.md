@@ -13,12 +13,12 @@
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/28076054?v=4" alt="threepebbles 프로필 이미지" width="150" /></td>
     <td><img src="https://avatars.githubusercontent.com/u/86594565?v=4" alt="한수빈 프로필 이미지" width="150" /></td>
-    <td><img src="" alt="프로필 이미지" width="150" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/71256649?v=4" alt="프로필 이미지" width="150" /></td>
   </tr>
   <tr>
     <td><a href="https://github.com/threepebbles">threepebbles</a></td>
     <td><a href="https://github.com/HSBODo">한수빈</a></td>
-    <td>이름</td>
+    <td><a href="https://github.com/su-giana">노수지</a></td>
   </tr>
 </table>
 

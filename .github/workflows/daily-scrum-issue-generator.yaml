@@ -19,10 +19,10 @@ jobs:
       - name: Create team sync issue
         run: |
           new_issue_url=$(gh issue create \
-            —title "$TITLE" \
-            —assignee "$ASSIGNEES" \
-            —label "$LABELS" \
-            —body "$BODY")
+            —-title "$TITLE" \
+            —-assignee "$ASSIGNEES" \
+            —-label "$LABELS" \
+            —-body "$BODY")
           if [[ $PINNED == true ]]; then
             gh issue pin "$new_issue_url"
           fi

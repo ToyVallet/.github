@@ -30,7 +30,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
           TITLE: Daily Scrum (${{ steps.date.outputs.date }})
-          ASSIGNEES: su-giana
+          ASSIGNEES: @me
           LABELS: daily-scrum
           BODY: |
             # 스크럼 🏉 / Wrap-up 🌯 중 택 1

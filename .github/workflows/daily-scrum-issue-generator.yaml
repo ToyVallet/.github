@@ -2,7 +2,7 @@
 name: Weekly Team Sync
 on:
   schedule:
-    - cron: "30 22 * * *"
+    - cron: "*/5 * * * *"
 jobs:
   create_issue:
     name: Create team sync issue
@@ -18,6 +18,16 @@ jobs:
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - name: Create team sync issue
         run: |
+          if [[ $CLOSE_PREVIOUS == true ]]; then
+            previous_issue_number=$(gh issue list \
+              --label "$LABELS" \
+              --json number \
+              --jq '.[0].number')
+            if [[ -n $previous_issue_number ]]; then
+              gh issue close "$previous_issue_number"
+              gh issue unpin "$previous_issue_number"
+            fi
+          fi
           new_issue_url=$(gh issue create \
             -t "$TITLE" \
             -a "$ASSIGNEES" \
@@ -42,5 +52,5 @@ jobs:
             3. 공유할 이슈 🙌
             -
           PINNED: false
-          CLOSE_PREVIOUS: false
+          CLOSE_PREVIOUS: true
 

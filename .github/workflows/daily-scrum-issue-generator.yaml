@@ -2,7 +2,7 @@
 name: Weekly Team Sync
 on:
   schedule:
-    - cron: "20 11 * * *"
+    - cron: "*/5 * * * *"
 jobs:
   create_issue:
     name: Create team sync issue

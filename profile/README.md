@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <td colspan="3">프론트엔드 팀</td>
+    <td colspan="4">프론트엔드 팀</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/84632077?v=4" alt="이호연 프로필 이미지" width="150" /></td>

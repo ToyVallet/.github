@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td colspan="3">백엔드 팀</td>
+    <td colspan="3">백엔드 챕터</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/71256649?v=4" alt="프로필 이미지" width="150" /></td>
@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td colspan="4">프론트엔드 팀</td>
+    <td colspan="4">프론트엔드 챕터</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/84632077?v=4" alt="이호연 프로필 이미지" width="150" /></td>
@@ -48,7 +48,19 @@
 
 <table>
   <tr>
-    <td>디자인 팀</td>
+    <td colspan="4">머신러닝 챕터</td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/57277708?v=4" alt="최창환 프로필 이미지" width="150"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ho991217">최창환</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>디자인 챕터</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/71256649?v=4" alt="프로필 이미지" width="150" /></td>
